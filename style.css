@@ -1,0 +1,285 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+
+body{
+    background: rgb(0,0,0);
+background: linear-gradient(180deg, rgb(255, 255, 255) 0%, rgba(106,106,106,1) 30%, rgba(166,166,166,1) 100%);
+}
+
+.container{
+    display:flex;
+
+}
+
+.imgs{
+    flex-direction: column;
+}
+.oneN{
+    font-size: xx-large;
+    font-family: 'Lobster', cursive;
+    color:rgb(225, 29, 29);
+}
+
+#one{
+    font-size: x-large;
+    font-family: cursive;
+    color: black;
+}
+
+.oneP{
+    border: 2px solid rgb(124, 26, 26);
+    height: 300px;
+    width: 400px;
+}
+
+#Size{
+    height: 20px;
+    width: 60px;
+}
+
+button:hover{
+   color: green;
+}
+
+button{
+    background-color: rgb(220, 220, 220);
+    font-style: bold;
+    height: 30px;
+}
+
+#onePr{
+    margin-right: 20px;
+    font-size: xx-large;
+    font-family: cursive;
+    color:rgb(211, 23, 23);
+}
+
+.twoN{
+    font-size: xx-large;
+    font-family: 'Lobster', cursive;
+    color: rgb(68, 68, 68);
+}
+
+.twoP{
+    border: 2px solid rgb(61, 61, 61);
+    height: 300px;
+    width: 400px;
+}
+
+#twoPr{
+    margin-right: 20px;
+    font-size: xx-large;
+    font-family: cursive;
+    color:rgb(61, 61, 61);
+}
+
+#two{
+    font-size: x-large;
+    font-family: cursive;
+    color: black;
+}
+
+.threeN{
+    font-size: xx-large;
+    font-family: 'Lobster', cursive;
+    color: rgb(173, 30, 30);
+}
+
+.threeP{
+    border: 2px solid rgb(87, 59, 34);
+    height: 300px;
+    width: 400px;
+}
+
+#threePr{
+    margin-right: 20px;
+    font-size: xx-large;
+    font-family: cursive;
+    color:rgb(63, 45, 37);
+}
+
+#three{
+    font-size: x-large;
+    font-family: cursive;
+    color: black;
+}
+
+.fourN{
+    font-size: xx-large;
+    font-family: 'Lobster', cursive;
+    color: rgb(85, 85, 85);
+}
+
+.fourP{
+    border: 2px solid rgb(0, 247, 255);
+    height: 300px;
+    width: 450px;
+}
+
+#fourPr{
+    margin-right: 20px;
+    font-size: xx-large;
+    font-family: cursive;
+    color:rgb(62, 172, 187);
+}
+
+#four{
+    font-size: x-large;
+    font-family: cursive;
+    color: black;
+}
+
+.fiveN{
+    font-size: xx-large;
+    font-family: 'Lobster', cursive;
+    color:rgb(255, 179, 0);
+}
+
+.fiveP{
+    border: 2px solid rgb(255, 179, 0);
+    height: 350px;
+    width: 550px;
+}
+
+#fivePr{
+    margin-right: 20px;
+    font-size: xx-large;
+    font-family: cursive;
+    color:rgb(255, 179, 0);
+}
+
+#five{
+    font-size: x-large;
+    font-family: cursive;
+    color: black;
+}
+
+.sixN{
+    font-size: xx-large;
+    font-family: 'Lobster', cursive;
+    color:rgb(255, 255, 255);
+}
+
+.sixP{
+    border: 2px solid gold;
+    height: 350px;
+    width: 550px;
+}
+
+#sixPr{
+    margin-right: 20px;
+    font-size: xx-large;
+    font-family: cursive;
+    color: gold;
+}
+
+#six{
+    font-size: x-large;
+    font-family: cursive;
+    color: black;
+}
+
+.sevenN{
+    font-size: xx-large;
+    font-family: 'Lobster', cursive;
+    color:rgb(36, 88, 167);
+}
+
+.sevenP{
+    border: 2px solid rgb(36, 88, 167);
+    height: 350px;
+    width: 550px;
+}
+
+#sevenPr{
+    margin-right: 20px;
+    font-size: xx-large;
+    font-family: cursive;
+    color:rgb(36, 88, 167);
+}
+
+#seven{
+    font-size: x-large;
+    font-family: cursive;
+    color: black;
+}
+
+.eightN{
+    font-size: xx-large;
+    font-family: 'Lobster', cursive;
+    color: rgb(177, 0, 0);
+}
+
+.eightP{
+    border: 2px solid rgb(255, 0, 0);
+    height: 350px;
+    width: 550px;
+}
+
+#eightPr{
+    margin-right: 20px;
+    font-size: xx-large;
+    font-family: cursive;
+    color:rgb(98, 0, 0);
+}
+
+#eight{
+    font-size: x-large;
+    font-family: cursive;
+    color: black;
+}
+
+.nineN{
+    font-size: xx-large;
+    font-family: 'Lobster', cursive;
+    color: rgb(198, 0, 0);
+}
+
+.nineP{
+    border: 2px solid rgb(255, 0, 0);
+    height: 400px;
+    width: 600px;
+}
+
+.nineP1{
+    border: 2px solid rgb(255, 0, 0);
+    height: 475px;
+    width: 750px;
+}
+
+#ninePr{
+    margin-right: 20px;
+    font-size: xx-large;
+    font-family: cursive;
+    color:rgb(131, 0, 0);
+}
+
+#nine{
+    font-size: x-large;
+    font-family: cursive;
+    color: black;
+}
+
+.tenN{
+    font-size: xx-large;
+    font-family: 'Lobster', cursive;
+    color:gold;
+}
+
+.tenP{
+    border: 2px solid gold;
+    height: 350px;
+    width: 550px;
+}
+
+#tenPr{
+    margin-right: 20px;
+    font-size: xx-large;
+    font-family: cursive;
+    color:gold;
+}
+
+#ten{
+    font-size: x-large;
+    font-family: cursive;
+    color: black;
+}
